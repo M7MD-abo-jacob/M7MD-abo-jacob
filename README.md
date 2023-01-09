@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+ *I'm a self-taught junior ReactJs developer who's motivated as heck!*
 
-<!--
-**M7MD-abo-jacob/M7MD-abo-jacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 [Check out my portfolio](mohammad-kikhia.vercel.app)
 
-Here are some ideas to get you started:
+## 📫 How to reach me: 
+- [email](m7md.master1@gmail.com)
+- [LinkedIn](linkedin.com/in/mohammad-kikhia)
+- [Facebook](facebook.com/100010744380377)
+- [instagram](instagram.com/m7md.abo_jacob)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>⚡ IF MY MIND CAN CONCEIVE IT, IF MY HEART CAN BELIEVE IT, THEN I CAN ACHIEVE IT.  
+> *Mohammad Ali*
+
