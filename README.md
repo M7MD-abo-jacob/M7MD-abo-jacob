@@ -1,5 +1,5 @@
 # Hi there 👋
- *I'm a self-taught junior ReactJs developer who's motivated as heck!*
+ *I'm a self-taught junior ReactJs developer*
 
 ## 👨‍💻 Check out [my portfolio](mohammad-kikhia.vercel.app)
 
