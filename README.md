@@ -1,8 +1,12 @@
 # Hi there 👋
 ## Thanks for stopping by ❤
 
-*I'm Mohammad Kikhia, I'm 25*
+## About me
+*I'm Mohammad Kikhia, I'm 25*  
 *I'm a self-taught junior ReactJs developer*
+
+
+**I love:** walking, coding, pets and e-sports
 
 ## 👨‍💻 Check out [my portfolio](mohammad-kikhia.vercel.app)
 ### 💥 My most recent project [here](https://github.com/M7MD-abo-jacob/uShopia)
