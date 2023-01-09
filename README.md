@@ -1,7 +1,11 @@
 # Hi there 👋
- *I'm a self-taught junior ReactJs developer*
+## Thanks for stopping by ❤
+
+*I'm Mohammad Kikhia, I'm 25*
+*I'm a self-taught junior ReactJs developer*
 
 ## 👨‍💻 Check out [my portfolio](mohammad-kikhia.vercel.app)
+### 💥 My most recent project [here](https://github.com/M7MD-abo-jacob/uShopia)
 
 ## 📫 How to reach me: 
 - [Email](m7md.master1@gmail.com)
@@ -10,5 +14,5 @@
 - [Instagram](instagram.com/m7md.abo_jacob)
 
 >⚡ IF MY MIND CAN CONCEIVE IT, IF MY HEART CAN BELIEVE IT, THEN I CAN ACHIEVE IT.  
-> *Mohammad Ali*
+> 🥊 *Mohammad Ali*
 
