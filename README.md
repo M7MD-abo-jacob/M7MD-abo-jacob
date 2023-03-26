@@ -8,7 +8,7 @@
 
 **I love:** walking, coding, pets and e-sports
 
-## 👨‍💻 Check out [my portfolio](mohammad-kikhia.vercel.app)
+## 👨‍💻 Check out [my portfolio](https://mohammad-kikhia.vercel.app)
 ### 💥 My most recent project [here](https://github.com/M7MD-abo-jacob/uShopia)
 
 ## 📫 How to reach me: 
