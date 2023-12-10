@@ -2,7 +2,7 @@
 ## Thanks for stopping by ❤
 
 ## About me
-*I'm Mohammad Kikhia, I'm 25*  
+*I'm Mohammad Kikhia, I'm 26*  
 *I'm a self-taught junior ReactJs developer*
 
 
