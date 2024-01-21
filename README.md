@@ -3,7 +3,7 @@
 
 ## About me
 *I'm Mohammad Kikhia, I'm 26*  
-*I'm a self-taught junior ReactJs developer*
+*I'm a self-taught ReactJs / NextJs developer*
 
 
 ## 👨‍💻 Check out [my portfolio](https://mohammad-kikhia.vercel.app)
