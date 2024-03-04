@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 Check out [my portfolio](https://mohammad-kikhia.vercel.app)
-### 💥 My most recent project [here](https://github.com/M7MD-abo-jacob/uShopia)
+### 💥 My most recent project [here](https://github.com/M7MD-abo-jacob/Weather-App)
 
 ## 📫 How to reach me: 
 - [Email](mailto:m7md.master1@gmail.com)
